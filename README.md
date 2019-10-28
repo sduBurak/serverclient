@@ -1,2 +1,1 @@
-# serverclient
-1721012053 BURAKYUSUF ULUZMANOĞLU
+# TCPServerClientExample
